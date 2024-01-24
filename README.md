@@ -42,7 +42,7 @@ When I am not at the keys, you will find me traveling with my beautiful wife and
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tj-turner&show_icons=true&count_private=true&theme=dark&hide_rank=true&include_all_commits=true" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tj-turner&show_icons=true&count_private=false&theme=dark&hide_rank=true&include_all_commits=true" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tj-turner&theme=dark" />&nbsp;&nbsp;
 </p>
 
