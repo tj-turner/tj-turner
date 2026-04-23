@@ -49,8 +49,7 @@ If you're building AI into a regulated product — or trying to figure out how t
 
 ## ✍️ Latest from Medium
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Why Humans Must Stay in the Loop: Lessons from Building an AI-Powered Coloring Book](https://medium.com/@tnjturner/why-humans-must-stay-in-the-loop-lessons-from-building-an-ai-powered-coloring-book-005d5996d346?source=rss-5e2599f93efc------2) <sub>Apr 21, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium →](https://medium.com/@tnjturner)
 
