@@ -1,48 +1,62 @@
 ### About Me
 
-<!--
-**tj-turner/tj-turner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Durham, NC. I'm a Director of Product Management and hands-on engineer with 25 years building software in regulated industries — pharmacovigilance SaaS, enterprise fintech payments, and cloud-based education platforms. I set the roadmap, but I also review the code, design the integration, and prototype the proof of concept.
 
-Here are some ideas to get you started:
+## 🔭 What I'm focused on now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI in products that can't afford to get it wrong.** I lead AI implementation across a portfolio of safety and compliance products used by global pharmaceutical clients — embedding LLM-driven capabilities into pharmacovigilance workflows without compromising SOC, ISO-9001, or FDA/EMA posture.
 
-I'm a Product Manager and Software Engineer based in Sunny South Florida. Since the time of the World Wide Web becoming a reality I have had a passion to develop things that have a purpose and solve real world problems. I specialize in building and managing pharmacovigilance saftey monitoring solutions, payment solutions for B2B and B2C customers, and custom SaaS solution software from adult education management systems.
+In parallel, I'm architecting **agent-to-agent infrastructure** for an enterprise fintech platform handling ACH, RTP, and card disbursements — shared AI capabilities that every product, internal or client-facing, can plug into for onboarding, compliance, and disbursement workflows.
 
-Over the years I have moved into product management, in addition to staying true to my love of software development. I have enjoyed this transition as it allows me the opportunity to design and shape the future of products I have worked on.
+## 💬 Ask me about
 
-I have had the fortune to work with large companies in Transportation Management, Telecommunications, Mobile and PC Gaming, FinTech, as well as top 5 Pharmaceutical companies.
+- LLM integration and agent-to-agent architecture in regulated contexts
+- Pharmacovigilance safety reporting and multilingual automation
+- Payment disbursement rails (ACH, RTP, card) and KYC/KYB/OFAC integrations
+- SSO, MFA, and Azure Entra B2B tenant patterns
+- Taking a regulated SaaS product from roadmap through SOC/ISO-9001 audit
 
-When I am not at the keys, you will find me traveling with my beautiful wife and our amazing German Shepard, cooking, or playing golf.
+## 🛠️ Areas of depth
 
-<div style='text-align:center'>
+| Area | Stack |
+| --- | --- |
+| **AI / ML** | LLM integration, agent-to-agent orchestration, retrieval-augmented workflows |
+| **Backend** | C#, .NET Core, Python, REST APIs, MSSQL, PL/SQL |
+| **Frontend** | Blazor, Angular, React, TypeScript, JavaScript |
+| **Cloud & Identity** | Azure, Entra, SSO, MFA |
+| **CI/CD** | Azure DevOps Pipelines, GitHub Actions, multi-region deployments |
+| **Practice** | Clean Architecture, SDLC ownership, global team leadership |
 
-[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli) 
-[![Medium](https://github.com/tj-turner/tj-turner/raw/main/assets/medium.svg)](https://medium.com/@tnjturner) 
-[![Website](https://img.shields.io/badge/timturner.dev--green?style=social&logo=google%20chrome)](https://timturner.dev/) 
+[![C#, Python, TypeScript, .NET, Azure, React, Angular, Blazor, JavaScript, HTML, CSS, Docker, VS, VS Code](https://skillicons.dev/icons?i=cs,py,ts,dotnet,azure,react,angular,bootstrap,tailwind,js,html,css,docker,visualstudio,vscode&perline=8)](https://skillicons.dev)
+
+## 🧭 How I work
+
+I came up through engineering before moving into product, so I default to shipping. I care about the roadmap, but I care more about whether the thing actually works in front of a customer under real regulatory load. I lead global teams, own SDLC end-to-end, and run the budget.
+
+If you're building AI into a regulated product — or trying to figure out how to — that's the conversation I'm most interested in right now.
+
+## 🔗 Find me
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/tj-turner?label=Follow&style=social)](https://github.com/tj-turner)
+[![Medium](https://github.com/tj-turner/tj-turner/raw/main/assets/medium.svg)](https://medium.com/@tnjturner)
+[![Website](https://img.shields.io/badge/timturner.dev--green?style=social&logo=google%20chrome)](https://timturner.dev/)
 [![Stackoverflow](https://github.com/tj-turner/tj-turner/raw/main/assets/stackoverflow.svg)](https://stackoverflow.com/users/2855217/tim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/timothyturner)
+
 </div>
 
-## 💻 Languages and tools I often work in:
+## ✍️ Latest from Medium
 
-[![C#, TypeScript, Azure,.Net Core, ElasticSearch, React.js, Angular,Bootstrap,Tailwind, CSS, JavaScript, HTML, jQuery,Visual Studio, VS Code,Docker](https://skillicons.dev/icons?i=cs,ts,azure,dotnet,elasticsearch,react,angular,bootstrap,tailwind,css,js,html,jquery,visualstudio,vscode,docker&perline=6)](https://skillicons.dev)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## Favorite Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20only%20hope%20that%20we%20don't%20lose%20sight%20of%20one%20thing%20-%20that%20it%20was%20all%20started%20by%20a%20mouse.&author=Walt%20Disney)](https://github.com/piyushsuthar/github-readme-quotes)
+[Read more on Medium →](https://medium.com/@tnjturner)
 
-
-## 🏆 My Stats:
+## 🏆 Stats
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tj-turner&show_icons=true&count_private=false&theme=dark&hide_rank=true&include_all_commits=true" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tj-turner&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://tj-turner-stats.vercel.app/api?username=tj-turner&show_icons=true&count_private=true&theme=dark&hide_rank=true&include_all_commits=true" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://tj-turner-stats.vercel.app/api/top-langs/?username=tj-turner&theme=dark&langs_count=8" />
 </p>
-
