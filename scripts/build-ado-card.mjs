@@ -169,14 +169,14 @@ function renderSvg({ commits, prs, workItems, contributed }) {
   <g transform="translate(25, ${y})">
     <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16">${icons[r.icon]}</svg>
     <text x="25" y="0" class="stat bold">${r.label}:</text>
-    <text x="220" y="0" class="stat bold" text-anchor="end">${r.value.toLocaleString()}</text>
+    <text x="220" y="0" class="stat bold">${r.value.toLocaleString()}</text>
   </g>`;
     })
     .join("");
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none" font-family="'Segoe UI', Ubuntu, Sans-Serif">
   <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .header { font: 700 18.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
     .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
     .bold { font-weight: 700; }
   </style>
