@@ -175,8 +175,7 @@ function renderSvg({ commits, prs, workItems, contributed }) {
     .join("");
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
-  <rect x="0.5" y="0.5" width="449" height="194" rx="4.5" fill="#151b23"/>
-  <text x="25" y="35" fill="#e7edf4" font-size="18" font-weight="600">Tim's Azure DevOps Stats</text>
+  <text x="25" y="35" fill="#58a6ff" font-size="18" font-weight="600">Tim's Azure DevOps Stats</text>
   ${items}
 </svg>
 `;
