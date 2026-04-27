@@ -1,0 +1,39 @@
+name: ADO Stats Card
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build ADO stats SVG
+        env:
+          ADO_ORG_URL: ${{ vars.ADO_ORG_URL }}
+          ADO_PROJECTS: ${{ vars.ADO_PROJECTS }}
+          ADO_AUTHOR_EMAIL: ${{ vars.ADO_AUTHOR_EMAIL }}
+          ADO_PAT: ${{ secrets.ADO_PAT }}
+        run: node scripts/build-ado-card.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain assets/ado-stats.svg)" ]]; then
+            git add assets/ado-stats.svg
+            git commit -m "Update ADO stats card"
+            git push
+          else
+            echo "No changes to commit"
+          fi

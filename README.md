@@ -56,6 +56,6 @@ If you're building AI into a regulated product — or trying to figure out how t
 ## 🏆 Stats
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://tj-turner-stats.vercel.app/api?username=tj-turner&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://tj-turner-stats.vercel.app/api/top-langs/?username=tj-turner&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+    <img height=175 alt="GitHub Stats" src="https://tj-turner-stats.vercel.app/api?username=tj-turner&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&hide=stars" />&nbsp;&nbsp;
+    <img height=175 alt="Azure DevOps Stats" src="https://github.com/tj-turner/tj-turner/raw/main/assets/ado-stats.svg" />
 </p>
