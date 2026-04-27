@@ -151,37 +151,41 @@ function renderSvg({ commits, prs, workItems, contributed }) {
 
   const icons = {
     commit:
-      `<path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" fill="#58a6ff"/>`,
+      `<path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/>`,
     pr:
-      `<path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z" fill="#58a6ff"/>`,
+      `<path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"/>`,
     issue:
-      `<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z" fill="#58a6ff"/><path fill-rule="evenodd" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0Z" fill="#58a6ff"/>`,
+      `<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"/><path fill-rule="evenodd" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0Z"/>`,
     repo:
-      `<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.694 1.72.75.75 0 0 1-1.04 1.08A2.5 2.5 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.25.25 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" fill="#58a6ff"/>`,
-  };
-
-  const rowHeight = 30;
-  const startY = 65;
+      `<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.694 1.72.75.75 0 0 1-1.04 1.08A2.5 2.5 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.25.25 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>`,
+    }; const rowSpacing = 25;
   const items = rows
     .map((r, i) => {
-      const y = startY + i * rowHeight;
+      const y = i * rowSpacing;
       return `
-  <g transform="translate(25, ${y})">
-    <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16">${icons[r.icon]}</svg>
-    <text x="25" y="0" class="stat bold">${r.label}:</text>
-    <text x="220" y="0" class="stat bold">${r.value.toLocaleString()}</text>
-  </g>`;
+    <g transform="translate(0, ${y})">
+      <g transform="translate(25, 0)">
+        <svg class="icon" x="0" y="0" viewBox="0 0 16 16" width="16" height="16">${icons[r.icon]}</svg>
+        <text class="stat bold" x="25" y="12.5">${r.label}:</text>
+        <text class="stat bold" x="220" y="12.5">${r.value.toLocaleString()}</text>
+      </g>
+    </g>`;
     })
     .join("");
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="380" height="170" viewBox="0 0 380 170" fill="none">
   <style>
-    .header { font: 700 18.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
-    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C3D1D9; }
     .bold { font-weight: 700; }
+    .icon { fill: #1F6FEB; display: block; }
   </style>
-  <text x="25" y="35" class="header">Tim's Azure DevOps Stats</text>
-  ${items}
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Tim's Azure DevOps Stats</text>
+  </g>
+  <g transform="translate(0, 55)">
+    ${items}
+  </g>
 </svg>
 `;
 }
