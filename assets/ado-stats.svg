@@ -1,24 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
-  <text x="25" y="35" fill="#58a6ff" font-size="18" font-weight="600">Tim's Azure DevOps Stats</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .bold { font-weight: 700; }
+  </style>
+  <text x="25" y="35" class="header">Tim's Azure DevOps Stats</text>
   
-  <g transform="translate(25, 60)">
-    <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16"><path d="M10.86 19.47a4.5 4.5 0 1 0 0-2.94H1.5a.75.75 0 0 0 0 1.5h9.36ZM12 18a3 3 0 1 1 6 0 3 3 0 0 1-6 0ZM13.14 5.47a4.5 4.5 0 1 0 0-2.94H1.5a.75.75 0 0 0 0 1.5h11.64ZM14.25 4a3 3 0 1 1 6 0 3 3 0 0 1-6 0Z" fill="#58a6ff"/></svg>
-    <text x="25" y="0" fill="#f0f6fc" font-size="14">Total Commits:</text>
-    <text x="220" y="0" fill="#f0f6fc" font-size="14" font-weight="600" text-anchor="end">2,635</text>
+  <g transform="translate(25, 65)">
+    <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" fill="#58a6ff"/></svg>
+    <text x="25" y="0" class="stat bold">Total Commits:</text>
+    <text x="220" y="0" class="stat bold" text-anchor="end">2,635</text>
   </g>
-  <g transform="translate(25, 86)">
+  <g transform="translate(25, 95)">
     <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z" fill="#58a6ff"/></svg>
-    <text x="25" y="0" fill="#f0f6fc" font-size="14">Total PRs:</text>
-    <text x="220" y="0" fill="#f0f6fc" font-size="14" font-weight="600" text-anchor="end">498</text>
+    <text x="25" y="0" class="stat bold">Total PRs:</text>
+    <text x="220" y="0" class="stat bold" text-anchor="end">498</text>
   </g>
-  <g transform="translate(25, 112)">
-    <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z" fill="#58a6ff"/><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0Zm0 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z" fill="#58a6ff"/></svg>
-    <text x="25" y="0" fill="#f0f6fc" font-size="14">Total Work Items:</text>
-    <text x="220" y="0" fill="#f0f6fc" font-size="14" font-weight="600" text-anchor="end">24</text>
+  <g transform="translate(25, 125)">
+    <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z" fill="#58a6ff"/><path fill-rule="evenodd" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0Z" fill="#58a6ff"/></svg>
+    <text x="25" y="0" class="stat bold">Total Work Items:</text>
+    <text x="220" y="0" class="stat bold" text-anchor="end">24</text>
   </g>
-  <g transform="translate(25, 138)">
+  <g transform="translate(25, 155)">
     <svg x="0" y="-13" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.694 1.72.75.75 0 0 1-1.04 1.08A2.5 2.5 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.25.25 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" fill="#58a6ff"/></svg>
-    <text x="25" y="0" fill="#f0f6fc" font-size="14">Contributed to:</text>
-    <text x="220" y="0" fill="#f0f6fc" font-size="14" font-weight="600" text-anchor="end">12</text>
+    <text x="25" y="0" class="stat bold">Contributed to:</text>
+    <text x="220" y="0" class="stat bold" text-anchor="end">12</text>
   </g>
 </svg>
