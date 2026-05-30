@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tj-turner/tj-turner/raw/main/assets/banner.png" alt="Tim Turner — AI Strategist · Product Manager · Software Engineer" width="100%" />
+</p>
+
 ### About Me
 
 Based in Durham, NC. I'm a Director of Product Management and hands-on engineer with 25 years building software in regulated industries — pharmacovigilance SaaS, enterprise fintech payments, and cloud-based education platforms. I set the roadmap, but I also review the code, design the integration, and prototype the proof of concept.
