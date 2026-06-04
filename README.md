@@ -58,7 +58,7 @@ If you're building AI into a regulated product — or trying to figure out how t
 ## ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [Dapper at Scale: The Stored-Procedure Lessons That Cost Me an Afternoon](https://medium.com/@tnjturner/dapper-at-scale-the-stored-procedure-lessons-that-cost-me-an-afternoon-e3b1bc9cfa25?source=rss-5e2599f93efc------2) <sub>May 24, 2026</sub>
+- [Dapper at Scale: The Stored-Procedure Lessons That Cost Me an Afternoon](https://levelup.gitconnected.com/dapper-at-scale-the-stored-procedure-lessons-that-cost-me-an-afternoon-e3b1bc9cfa25?source=rss-5e2599f93efc------2) <sub>May 24, 2026</sub>
 - [Dapper + LLMs: Generating Stored Procedures You’d Actually Ship](https://medium.com/@tnjturner/dapper-llms-generating-stored-procedures-youd-actually-ship-e0f557a885e1?source=rss-5e2599f93efc------2) <sub>May 09, 2026</sub>
 - [Why Humans Must Stay in the Loop: Lessons from Building an AI-Powered Coloring Book](https://medium.com/@tnjturner/why-humans-must-stay-in-the-loop-lessons-from-building-an-ai-powered-coloring-book-005d5996d346?source=rss-5e2599f93efc------2) <sub>Apr 21, 2026</sub><!-- BLOG-POST-LIST:END -->
 
