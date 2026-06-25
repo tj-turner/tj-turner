@@ -58,9 +58,9 @@ If you're building AI into a regulated product — or trying to figure out how t
 ## ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [What Outlives the Plan](https://levelup.gitconnected.com/what-outlives-the-plan-10c14f67839e?source=rss-5e2599f93efc------2) <sub>Jun 24, 2026</sub>
 - [Money Is a Ledger, Not a Balance](https://levelup.gitconnected.com/money-is-a-ledger-not-a-balance-a5e4eb221d90?source=rss-5e2599f93efc------2) <sub>Jun 15, 2026</sub>
-- [Real-Time Multiplayer Is a UX Problem, Not a Transport Problem](https://levelup.gitconnected.com/real-time-multiplayer-is-a-ux-problem-not-a-transport-problem-1f6d9aa87237?source=rss-5e2599f93efc------2) <sub>Jun 05, 2026</sub>
-- [Dapper at Scale: The Stored-Procedure Lessons That Cost Me an Afternoon](https://levelup.gitconnected.com/dapper-at-scale-the-stored-procedure-lessons-that-cost-me-an-afternoon-e3b1bc9cfa25?source=rss-5e2599f93efc------2) <sub>May 24, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Real-Time Multiplayer Is a UX Problem, Not a Transport Problem](https://levelup.gitconnected.com/real-time-multiplayer-is-a-ux-problem-not-a-transport-problem-1f6d9aa87237?source=rss-5e2599f93efc------2) <sub>Jun 05, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium →](https://medium.com/@tnjturner)
 
