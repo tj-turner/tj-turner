@@ -58,9 +58,9 @@ If you're building AI into a regulated product — or trying to figure out how t
 ## ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rule Lives in Three Places](https://levelup.gitconnected.com/the-rule-lives-in-three-places-7690081dc542?source=rss-5e2599f93efc------2) <sub>Jul 08, 2026</sub>
 - [What Outlives the Plan](https://levelup.gitconnected.com/what-outlives-the-plan-10c14f67839e?source=rss-5e2599f93efc------2) <sub>Jun 24, 2026</sub>
-- [Money Is a Ledger, Not a Balance](https://levelup.gitconnected.com/money-is-a-ledger-not-a-balance-a5e4eb221d90?source=rss-5e2599f93efc------2) <sub>Jun 15, 2026</sub>
-- [Real-Time Multiplayer Is a UX Problem, Not a Transport Problem](https://levelup.gitconnected.com/real-time-multiplayer-is-a-ux-problem-not-a-transport-problem-1f6d9aa87237?source=rss-5e2599f93efc------2) <sub>Jun 05, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Money Is a Ledger, Not a Balance](https://levelup.gitconnected.com/money-is-a-ledger-not-a-balance-a5e4eb221d90?source=rss-5e2599f93efc------2) <sub>Jun 15, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium →](https://medium.com/@tnjturner)
 
