@@ -58,9 +58,9 @@ If you're building AI into a regulated product — or trying to figure out how t
 ## ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [The Shared Foundation: Building an AI Library You’d Actually Reuse](https://levelup.gitconnected.com/the-shared-foundation-building-an-ai-library-youd-actually-reuse-4b156de92bd3?source=rss-5e2599f93efc------2) <sub>Aug 03, 2026</sub>
 - [Building AI Infrastructure: Four Backend Assumptions to Rewire](https://levelup.gitconnected.com/building-ai-infrastructure-four-backend-assumptions-to-rewire-02115906c63b?source=rss-5e2599f93efc------2) <sub>Jul 27, 2026</sub>
-- [Agents That Learn From Rejection: Building a Book Factory with Claude CLI](https://levelup.gitconnected.com/agents-that-learn-from-rejection-building-a-book-factory-with-claude-cli-aa3a81b13bd1?source=rss-5e2599f93efc------2) <sub>Jul 15, 2026</sub>
-- [The Rule Lives in Three Places](https://levelup.gitconnected.com/the-rule-lives-in-three-places-7690081dc542?source=rss-5e2599f93efc------2) <sub>Jul 08, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Agents That Learn From Rejection: Building a Book Factory with Claude CLI](https://levelup.gitconnected.com/agents-that-learn-from-rejection-building-a-book-factory-with-claude-cli-aa3a81b13bd1?source=rss-5e2599f93efc------2) <sub>Jul 15, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium →](https://medium.com/@tnjturner)
 
