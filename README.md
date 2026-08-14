@@ -8,17 +8,18 @@
 
 ### About Me
 
-Based in Durham, NC. I'm a Director of Product Management and hands-on engineer with 25 years building software in regulated industries — pharmacovigilance SaaS, enterprise fintech payments, and cloud-based education platforms. I set the roadmap, but I also review the code, design the integration, and prototype the proof of concept.
+Based in Durham, NC. I'm an AI and engineering leader with 25 years building software in regulated industries — pharmacovigilance SaaS, enterprise fintech payments, and cloud-based education platforms. I set the strategy, but I also review the code, design the integration, and prototype the proof of concept.
 
 ## 🔭 What I'm focused on now
 
-**AI in products that can't afford to get it wrong.** I lead AI implementation across a portfolio of safety and compliance products used by global pharmaceutical clients — embedding LLM-driven capabilities into pharmacovigilance workflows without compromising SOC, ISO-9001, or FDA/EMA posture.
+**AI in products that can't afford to get it wrong.** I work on the guardrails that make AI safe to ship in regulated software — prompt-injection defense, responsible-AI standards, and reusable platform patterns — so a language model can go in front of a customer without compromising SOC, ISO-9001, or FDA/EMA posture.
 
-In parallel, I'm architecting **agent-to-agent infrastructure** for an enterprise fintech platform handling ACH, RTP, and card disbursements — shared AI capabilities that every product, internal or client-facing, can plug into for onboarding, compliance, and disbursement workflows.
+In parallel, I set **AI strategy and governance** for an enterprise fintech payments platform: where and why AI gets applied, and the trust boundaries behind it — plus the agent-to-agent and MCP infrastructure that lets every product, internal or client-facing, plug into shared, governed AI capabilities.
 
 ## 💬 Ask me about
 
-- LLM integration and agent-to-agent architecture in regulated contexts
+- LLM integration, agent-to-agent architecture, and Model Context Protocol (MCP) in regulated contexts
+- Prompt-injection defense and responsible-AI guardrails for production systems
 - Pharmacovigilance safety reporting and multilingual automation
 - Payment disbursement rails (ACH, RTP, card) and KYC/KYB/OFAC integrations
 - SSO, MFA, and Azure Entra B2B tenant patterns
@@ -28,7 +29,7 @@ In parallel, I'm architecting **agent-to-agent infrastructure** for an enterpris
 
 | Area | Stack |
 | --- | --- |
-| **AI / ML** | LLM integration, agent-to-agent orchestration, retrieval-augmented workflows |
+| **AI / ML** | LLM integration, agentic & agent-to-agent orchestration, MCP tooling, RAG, prompt-injection defense |
 | **Backend** | C#, .NET Core, Python, REST APIs, MSSQL, PL/SQL |
 | **Frontend** | Blazor, Angular, React, TypeScript, JavaScript |
 | **Cloud & Identity** | Azure, Entra, SSO, MFA |
@@ -42,6 +43,13 @@ In parallel, I'm architecting **agent-to-agent infrastructure** for an enterpris
 I came up through engineering before moving into product, so I default to shipping. I care about the roadmap, but I care more about whether the thing actually works in front of a customer under real regulatory load. I lead global teams, own SDLC end-to-end, and run the budget.
 
 If you're building AI into a regulated product — or trying to figure out how to — that's the conversation I'm most interested in right now.
+
+## ✍️ Selected writing — AI infrastructure & safety
+
+- [Building AI Infrastructure: Four Backend Assumptions to Rewire](https://levelup.gitconnected.com/building-ai-infrastructure-four-backend-assumptions-to-rewire-02115906c63b) — why an AI backend inverts a decade of engineering instinct.
+- [The Shared Foundation: Building an AI Library You'd Actually Reuse](https://levelup.gitconnected.com/the-shared-foundation-building-an-ai-library-youd-actually-reuse-4b156de92bd3) — one agent loop, thin services, a safety fix that ships once.
+- [Content-as-Code for AI: Prompts and Skills You'd Actually Review](https://levelup.gitconnected.com/content-as-code-for-ai-prompts-and-skills-youd-actually-review-6b67401d52c7) — governing the text that runs an AI system as reviewable source in the build.
+- [Agents That Learn From Rejection: Building a Book Factory with Claude CLI](https://levelup.gitconnected.com/agents-that-learn-from-rejection-building-a-book-factory-with-claude-cli-aa3a81b13bd1) — three Claude CLI agents that write each rejection back into the spec.
 
 ## 🔗 Find me
 
