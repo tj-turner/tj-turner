@@ -44,6 +44,8 @@ I came up through engineering before moving into product, so I default to shippi
 
 If you're building AI into a regulated product — or trying to figure out how to — that's the conversation I'm most interested in right now.
 
+> *"I only hope that we never lose sight of one thing — that it was all started by a mouse."* — Walt Disney
+
 ## ✍️ Selected writing — AI infrastructure & safety
 
 - [Building AI Infrastructure: Four Backend Assumptions to Rewire](https://levelup.gitconnected.com/building-ai-infrastructure-four-backend-assumptions-to-rewire-02115906c63b) — why an AI backend inverts a decade of engineering instinct.
