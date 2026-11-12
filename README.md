@@ -68,9 +68,9 @@ If you're building AI into a regulated product — or trying to figure out how t
 ## ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Minutes Was a Guess: What a Month of Testing Did to a Published Budget](https://levelup.gitconnected.com/two-minutes-was-a-guess-what-a-month-of-testing-did-to-a-published-budget-e48d7c0b856e?source=rss-5e2599f93efc------2) <sub>Nov 11, 2026</sub>
 - [The Ten-Second Budget: Where Long Work Goes When Chat Can’t Hold It](https://levelup.gitconnected.com/the-ten-second-budget-where-long-work-goes-when-chat-cant-hold-it-5124bb617e2c?source=rss-5e2599f93efc------2) <sub>Sep 04, 2026</sub>
-- [Documents Are Never Instructions: Safety Walls That Don’t Ask Who Wrote It](https://levelup.gitconnected.com/documents-are-never-instructions-safety-walls-that-dont-ask-who-wrote-it-4159c14a5a62?source=rss-5e2599f93efc------2) <sub>Aug 24, 2026</sub>
-- [Content-as-Code for AI: Prompts and Skills You’d Actually Review](https://levelup.gitconnected.com/content-as-code-for-ai-prompts-and-skills-youd-actually-review-6b67401d52c7?source=rss-5e2599f93efc------2) <sub>Aug 11, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Documents Are Never Instructions: Safety Walls That Don’t Ask Who Wrote It](https://levelup.gitconnected.com/documents-are-never-instructions-safety-walls-that-dont-ask-who-wrote-it-4159c14a5a62?source=rss-5e2599f93efc------2) <sub>Aug 24, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium →](https://medium.com/@tnjturner)
 
